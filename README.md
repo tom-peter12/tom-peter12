@@ -5,6 +5,9 @@
 - 📫 How to reach me ...
 -    And I love Captain Jack Sparrow.
 
+## Live 42 Cursus Status
+[![tpetros's 42 stats](https://badge42.vercel.app/api/v2/cllfhmwwv000608ju2o0oxkvi/stats?cursusId=21&coalitionId=154)](https://github.com/JaeSeoKim/badge42)
+
 ##  :notebook_with_decorative_cover: 42 cursus (Sept 16 2022 ~)
 
 | #----# | Project                                                      |            Language            |                            Score                             |
