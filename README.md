@@ -1,8 +1,22 @@
+<h1 align="center">Tomas Petros<h1/>
+
+##  About Me:
+
 - 👋 Hi, I’m @Tomas Petros.
 - 👀 I’m interested in Networking, Security, Cloud Computing, Web development
 - 🌱 I’m currently learning Networking and Cyber Security.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+
+### If it works, Don't touch it.
+<hr/>
+
+  <p align="center"> <b><<<< [ Github Stats ] >>>></b> </p>
+ 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MisterTooh&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MisterTooh&theme=radical" />
+<div/><br>
 
 ## Live 42 Cursus Status
 [![tpetros's 42 stats](https://badge42.vercel.app/api/v2/cllfhmwwv000608ju2o0oxkvi/stats?cursusId=21&coalitionId=154)](https://github.com/JaeSeoKim/badge42)
