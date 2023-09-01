@@ -14,8 +14,8 @@
   <p align="center"> <b><<<< [ Github Stats ] >>>></b> </p>
  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MisterTooh&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MisterTooh&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tom-peter12&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tom-peter12&theme=radical" />
 <div/><br>
 
 ## Live 42 Cursus Status
