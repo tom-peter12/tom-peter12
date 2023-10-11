@@ -13,10 +13,10 @@
 
   <p align="center"> <b><<<< [ Github Stats ] >>>></b> </p>
  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tom-peter12&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tom-peter12&theme=radical" />
-<div/><br>
+//<div align="center">
+  //<img src="https://github-readme-stats.vercel.app/api?username=tom-peter12&theme=radical" />
+  //<img src="https://github-readme-streak-stats.herokuapp.com/?user=tom-peter12&theme=radical" />
+//<div/><br>
 
 ## Live 42 Cursus Status
 [![tpetros's 42 stats](https://badge42.vercel.app/api/v2/cllfhmwwv000608ju2o0oxkvi/stats?cursusId=21&coalitionId=154)](https://github.com/JaeSeoKim/badge42)
