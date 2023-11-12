@@ -29,6 +29,13 @@
 
 <hr/>
 
+
+ |Python|C| C++ | JS |Bash|React.js| SQL
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|<img style="width: 200px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png">|<img style="width: 200px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png">|<img style="width: 200px" src="https://upload.wikimedia.org/wikipedia/commons/3/32/C%2B%2B_logo.png">|<img style="width: 200px" src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png">|<img style="width: 200px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png">|<img style="width: 200px" src="https://www.svgrepo.com/show/493719/react-javascript-js-framework-facebook.svg">|<img style="width: 200px" src="https://media1.giphy.com/media/EK5nB6wQKKN86j7GWx/giphy.gif?cid=790b76113fd65a9386daf6b2bd86487884627fdfdf1a597a&rid=giphy.gif&ct=s">
+
+<hr/>
+
 ## 📊 My GitHub Stats
 
 <div align="center">
@@ -36,10 +43,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tom-peter12&theme=radical" />
 <div/><br>
 
-
- |Python|C| C++ | JS |Bash|React.js| SQL
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|<img style="width: 200px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png">|<img style="width: 200px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png">|<img style="width: 200px" src="https://upload.wikimedia.org/wikipedia/commons/3/32/C%2B%2B_logo.png">|<img style="width: 200px" src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png">|<img style="width: 200px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png">|<img style="width: 200px" src="https://www.svgrepo.com/show/493719/react-javascript-js-framework-facebook.svg">|<img style="width: 200px" src="https://media1.giphy.com/media/EK5nB6wQKKN86j7GWx/giphy.gif?cid=790b76113fd65a9386daf6b2bd86487884627fdfdf1a597a&rid=giphy.gif&ct=s">
 
 
 
