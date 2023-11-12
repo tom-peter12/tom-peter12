@@ -14,6 +14,16 @@
 
 <hr/>
 
+<a href="https://github.com/tom-peter12/libft">![42 Badge](https://github.com/tom-peter12/tom-peter12/blob/main/badges/libft.png)</a>
+<a href="https://github.com/tom-peter12/get_next_line">![42 Badge](https://github.com/tom-peter12/tom-peter12/blob/main/badges/get_next_line.png)</a>
+<a href="https://github.com/tom-peter12/ft_printf">![42 Badge](https://github.com/tom-peter12/tom-peter12/blob/main/badges/ft_printf.png)</a>
+<a href="https://github.com/tom-peter12/fractol">![42 Badge](https://github.com/tom-peter12/tom-peter12/blob/main/badges/fractol.png)</a>
+<a href="https://github.com/tom-peter12/push_swap">![42 Badge](https://github.com/tom-peter12/tom-peter12/blob/main/badges/push_swap.png)</a>
+<a href="https://github.com/tom-peter12/philo">![42 Badge](https://github.com/tom-peter12/tom-peter12/blob/main/badges/philo.png)</a>
+<a href="https://github.com/tom-peter12/cub3D">![42 Badge](https://github.com/tom-peter12/tom-peter12/blob/main/badges/cub3D.png)</a>
+
+<hr/>
+
 <p align="center"> <b>📊 My GitHub Stats</b> </p>
 
 <div align="center">
