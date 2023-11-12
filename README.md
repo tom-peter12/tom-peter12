@@ -36,19 +36,20 @@
 
 <hr/>
 
-<div>
- <a href="https://visitcount.itsvg.in">
-   <img src="https://visitcount.itsvg.in/api?id=tom-peter12&label=Profile%20Views&pretty=false" />
- </a>
-</div>
-<hr/>
-
 ## 📊 My GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tom-peter12&theme=radical" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tom-peter12&theme=radical" />
 <div/><br>
+
+<hr/>
+
+<div>
+ <a href="https://visitcount.itsvg.in">
+   <img src="https://visitcount.itsvg.in/api?id=tom-peter12&label=Profile%20Views&pretty=false" />
+ </a>
+</div>
 
 
 
