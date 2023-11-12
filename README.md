@@ -14,6 +14,9 @@
 
 <hr/>
 
+## 42 School Projects
+<div align="center">
+
 <a href="https://github.com/tom-peter12/libft"><img src="https://github.com/tom-peter12/tom-peter12/blob/main/badges/libft.png" width="120" height="120" alt="42 Badge"></a>
 <a href="https://github.com/tom-peter12/get_next_line"><img src="https://github.com/tom-peter12/tom-peter12/blob/main/badges/gnl.png" width="120" height="120" alt="42 Badge"></a>
 <a href="https://github.com/tom-peter12/ft_printf"><img src="https://github.com/tom-peter12/tom-peter12/blob/main/badges/printf.png" width="120" height="120" alt="42 Badge"></a>
@@ -21,7 +24,7 @@
 <a href="https://github.com/tom-peter12/push_swap"><img src="https://github.com/tom-peter12/tom-peter12/blob/main/badges/pushswap.png" width="120" height="120" alt="42 Badge"></a>
 <a href="https://github.com/tom-peter12/philo"><img src="https://github.com/tom-peter12/tom-peter12/blob/main/badges/philo.png" width="120" height="120" alt="42 Badge"></a>
 <a href="https://github.com/tom-peter12/cub3D"><img src="https://github.com/tom-peter12/tom-peter12/blob/main/badges/cub3D.png" width="120" height="120" alt="42 Badge"></a>
-
+<div/>
 
 <hr/>
 
