@@ -71,7 +71,7 @@ using UNIX signals.</td>
     </td>
   </tr>
 
-  <tr>
+  <!-- <tr>
     <td><a href="https://github.com/Degef/CPP-Modules">CPP Modules</a></td>
     <td> Collection of CPP Modules regarding fundamentals of Object-oriented programming (OOP)  <br>
       <details>
@@ -100,7 +100,7 @@ using UNIX signals.</td>
         </table>
       </details>
     </td>
-  </tr>
+  </tr> -->
 
    <tr>
     <td><a href="https://github.com/tom-peter12/cub3D">Cub3D</a></td>
