@@ -23,7 +23,7 @@
   </tr>
   <tr>
     <td><a href="https://github.com/tom-peter12/libft">Libft</a></td>
-    <td>A library of custom C functions used in various projects.</td>
+    <td>This project is about coding a C library.</td>
     <td><a href="https://github.com/tom-peter12/libft"><img src="https://github.com/tom-peter12/tom-peter12/blob/main/badges/libft.png" width="120" height="120" alt="42 Badge"></a></td>
   </tr>
   <tr>
@@ -50,14 +50,15 @@ using UNIX signals.</td>
   </tr>
   <tr>
     <td><a href="https://github.com/tom-peter12/push_swap">push_swap</a></td>
-    <td>A sorting algorithm project in C that aims to sort a stack of integers with specific rules.</td>
+    <td>This project will make you sort data on a stack, with a limited set of instructions, using
+the lowest possible number of actions.</td>
     <td>
       <a href="https://github.com/tom-peter12/push_swap"><img src="https://github.com/tom-peter12/tom-peter12/blob/main/badges/pushswap.png" width="120" height="120" alt="42 Badge"></a>
     </td>
   </tr>
   <tr>
     <td><a href="https://github.com/tom-peter12/fractol">fractol</a></td>
-    <td>This project is about creating graphically beautiful fractals.</td>
+    <td>Discover 2D programming and the psychedelic universe of fractals in this project, using minilibX.</td>
     <td>
       <a href="https://github.com/tom-peter12/fractol"><img src="https://github.com/tom-peter12/tom-peter12/blob/main/badges/fractol.png" width="120" height="120" alt="42 Badge"></a>
     </td>
@@ -65,7 +66,8 @@ using UNIX signals.</td>
 
   <tr>
     <td><a href="https://github.com/Degef/Philosophers">philosophers</a></td>
-    <td>An implementation of the classic dining philosophers problem in C.</td>
+    <td>In this project, you will learn the basics of threading a process.
+You will see how to create threads and you will discover mutexes.</td>
     <td>
       <a href="https://github.com/tom-peter12/philo"><img src="https://github.com/tom-peter12/tom-peter12/blob/main/badges/philo.png" width="120" height="120" alt="42 Badge"></a>
     </td>
