@@ -28,7 +28,7 @@
 
 <hr/>
 
-<p align="center"> <b>📊 My GitHub Stats</b> </p>
+## 📊 My GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tom-peter12&theme=radical" />
