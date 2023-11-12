@@ -27,6 +27,51 @@
     <td><a href="https://github.com/tom-peter12/libft"><img src="https://github.com/tom-peter12/tom-peter12/blob/main/badges/libft.png" width="120" height="120" alt="42 Badge"></a></td>
   </tr>
   <tr>
+    <td><a href="https://github.com/tom-peter12/ft_printf">ft_printf</a></td>
+    <td> A replication of the Printf function in C.</td>
+    <td>
+      <a href="https://github.com/tom-peter12/ft_printf"><img src="https://github.com/tom-peter12/tom-peter12/blob/main/badges/printf.png" width="120" height="120" alt="42 Badge"></a>
+    </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/tom-peter12/get_next_line">get_next_line</a></td>
+    <td>A function in C for reading lines from file one at a time.</td>
+    <td>
+      <a href="https://github.com/tom-peter12/get_next_line"><img src="https://github.com/tom-peter12/tom-peter12/blob/main/badges/gnl.png" width="120" height="120" alt="42 Badge"></a>
+    </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/tom-peter12/minitalk">minitalk</a></td>
+    <td>The purpose of this project is to code a small data exchange program
+using UNIX signals.</td>
+    <td>
+      <a href="https://github.com/tom-peter12/minitalk"><img src="https://github.com/tom-peter12/tom-peter12/blob/main/badges/minitalk.png" width="120" height="120" alt="42 Badge"></a>
+    </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/tom-peter12/push_swap">push_swap</a></td>
+    <td>A sorting algorithm project in C that aims to sort a stack of integers with specific rules.</td>
+    <td>
+      <a href="https://github.com/tom-peter12/push_swap"><img src="https://github.com/tom-peter12/tom-peter12/blob/main/badges/pushswap.png" width="120" height="120" alt="42 Badge"></a>
+    </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/tom-peter12/fractol">fractol</a></td>
+    <td>This project is about creating graphically beautiful fractals.</td>
+    <td>
+      <a href="https://github.com/tom-peter12/fractol"><img src="https://github.com/tom-peter12/tom-peter12/blob/main/badges/fractol.png" width="120" height="120" alt="42 Badge"></a>
+    </td>
+  </tr>
+
+  <tr>
+    <td><a href="https://github.com/Degef/Philosophers">philosophers</a></td>
+    <td>An implementation of the classic dining philosophers problem in C.</td>
+    <td>
+      <a href="https://github.com/tom-peter12/philo"><img src="https://github.com/tom-peter12/tom-peter12/blob/main/badges/philo.png" width="120" height="120" alt="42 Badge"></a>
+    </td>
+  </tr>
+
+  <tr>
     <td><a href="https://github.com/Degef/CPP-Modules">CPP Modules</a></td>
     <td> Collection of CPP Modules regarding fundamentals of Object-oriented programming (OOP)  <br>
       <details>
@@ -52,57 +97,9 @@
             <td><a href="https://github.com/Degef/CPP-Modules/tree/master/cpp04">Module 04:</a></td>
             <td>Subtype polymorphism, abstract classes, interfaces.</td>
           </tr>
-          <tr>
-            <td><a href="https://github.com/Degef/CPP-Modules/tree/master/cpp05">Module 05:</a></td>
-            <td>Repetition and Exceptions.</td>
-          </tr>
-          <tr>
-            <td><a href="https://github.com/Degef/CPP-Modules/tree/master/cpp06">Module 06:</a></td>
-            <td>C++ Casts.</td>
-          </tr>
-          <tr>
-            <td><a href="https://github.com/Degef/CPP-Modules/tree/master/cpp07">Module 07:</a></td>
-            <td>C++ Templates.</td>
-          </tr>
-          <tr>
-            <td><a href="https://github.com/Degef/CPP-Modules/tree/master/cpp08">Module 08:</a></td>
-            <td>Templated containers, iterators, algorithms.</td>
-          </tr>
-          <tr>
-            <td><a href="https://github.com/Degef/CPP-Modules/tree/master/cpp09">Module 09:</a></td>
-            <td>The STL.</td>
-          </tr>
         </table>
       </details>
     </td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/Degef/Philosophers">Dining Philosophers</a></td>
-    <td>An implementation of the classic dining philosophers problem in C.</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/Degef/Push-Swap">Push_Swap</a></td>
-    <td>A sorting algorithm project in C that aims to sort a stack of integers with specific rules.</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/Degef/Minishell">Minishell</a></td>
-    <td>A minimal Unix shell with built-in commands and support for pipes and redirections.</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/Degef/So_long">So_long</a></td>
-    <td>A 2D game developed in C using the MinilibX graphics library.</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/Degef/minitalk">Minitalk</a></td>
-    <td>A client-server process communication project using C signals.</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/Degef/get_next_line">get_next_line</a></td>
-    <td>A function in C for reading lines from file one at a time.</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/Degef/ft_printf">ft_printf</a></td>
-    <td> A replication of the Printf function in C.</td>
   </tr>
 
    <tr>
@@ -112,15 +109,6 @@
   </tr>
 </table>
 <div>
-<a href="https://github.com/tom-peter12/libft"><img src="https://github.com/tom-peter12/tom-peter12/blob/main/badges/libft.png" width="120" height="120" alt="42 Badge"></a>
-<a href="https://github.com/tom-peter12/get_next_line"><img src="https://github.com/tom-peter12/tom-peter12/blob/main/badges/gnl.png" width="120" height="120" alt="42 Badge"></a>
-<a href="https://github.com/tom-peter12/ft_printf"><img src="https://github.com/tom-peter12/tom-peter12/blob/main/badges/printf.png" width="120" height="120" alt="42 Badge"></a>
-<a href="https://github.com/tom-peter12/minitalk"><img src="https://github.com/tom-peter12/tom-peter12/blob/main/badges/minitalk.png" width="120" height="120" alt="42 Badge"></a>
-<a href="https://github.com/tom-peter12/fractol"><img src="https://github.com/tom-peter12/tom-peter12/blob/main/badges/fractol.png" width="120" height="120" alt="42 Badge"></a>
-<a href="https://github.com/tom-peter12/push_swap"><img src="https://github.com/tom-peter12/tom-peter12/blob/main/badges/pushswap.png" width="120" height="120" alt="42 Badge"></a>
-<a href="https://github.com/tom-peter12/philo"><img src="https://github.com/tom-peter12/tom-peter12/blob/main/badges/philo.png" width="120" height="120" alt="42 Badge"></a>
-<a href="https://github.com/tom-peter12/cub3D"><img src="https://github.com/tom-peter12/tom-peter12/blob/main/badges/cub3D.png" width="120" height="120" alt="42 Badge"></a>
-<div/>
 
 <hr/>
 
