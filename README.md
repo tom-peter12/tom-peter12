@@ -36,6 +36,11 @@
 
 <hr/>
 
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=tom-peter12&label=Profile%20Views&pretty=false" />
+</a>
+<hr/>
+
 ## 📊 My GitHub Stats
 
 <div align="center">
