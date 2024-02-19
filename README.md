@@ -1,6 +1,6 @@
 ## About Me:
 
-👋 Hi, I’m Tomas Petros. A tech enthusiast with a passion for unraveling the complexities of Computer Science and Cyber Security. I’m always looking for cutting-edge technologies in Software Engineering and Web Development.
+👋 Hi, I’m Tomas Petros. A tech enthusiast with a passion for unraveling the complexities of Computer Science and Cyber Security.
 
 👀 I’m deeply interested in the intersection of technology and security, and how it shapes our digital future.
 
