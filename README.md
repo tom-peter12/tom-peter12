@@ -57,14 +57,14 @@
 		<td><a href="https://github.com/tom-peter12/philo"><img src="https://github.com/tom-peter12/tom-peter12/blob/main/badges/philo.png" width="120" height="120" alt="42 Badge"></a></td>
 	</tr>
 	<tr>
-		<td><a href="https://github.com/tom-peter12/Inception">Inception</a></td>
-		<td>This project aims to broaden your knowledge of system administration by using Docker.</td>
-		<td><a href="https://github.com/tom-peter12/Inception"><img src="https://github.com/tom-peter12/tom-peter12/blob/main/badges/inceptionm.png" width="120" height="120" alt="42 Badge"></a></td>
-	</tr>
-	<tr>
 		<td><a href="https://github.com/tom-peter12/cub3D">Cub3D</a></td>
 		<td>A 3D maze game developed using the raycasting technique in C.</td>
 		<td><a href="https://github.com/tom-peter12/cub3D"><img src="https://github.com/tom-peter12/tom-peter12/blob/main/badges/cub3D.png" width="120" height="120" alt="42 Badge"></a></td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/tom-peter12/Inception">Inception</a></td>
+		<td>This project aims to broaden your knowledge of system administration by using Docker.</td>
+		<td><a href="https://github.com/tom-peter12/Inception"><img src="https://github.com/tom-peter12/tom-peter12/blob/main/badges/inceptionm.png" width="120" height="120" alt="42 Badge"></a></td>
 	</tr>
 
 </table>
