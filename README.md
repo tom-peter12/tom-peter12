@@ -97,9 +97,9 @@
 <hr/>
 
 <div>
- <a href="https://visitcount.itsvg.in">
-   <img src="https://visitcount.itsvg.in/api?id=tom-peter12&label=Profile%20Views&pretty=false" />
- </a>
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=tom-peter12&label=Profile%20Views&pretty=false" />
+</a>
 </div>
 
 
