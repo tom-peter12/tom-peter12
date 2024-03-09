@@ -1,14 +1,14 @@
 ## About Me:
 
-👋 Hi, I’m Tomas Petros. A tech enthusiast with a passion for unraveling the complexities of Computer Science and Cyber Security.
+Hi, I’m Tomas Petros. A tech enthusiast with a passion for unraveling the complexities of Computer Science and Cyber Security.
 
-👀 I’m deeply interested in the intersection of technology and security, and how it shapes our digital future.
+I’m deeply interested in the intersection of technology and security, and how it shapes our digital future.
 
-🌱 Currently diving deep into Ethical Hacking, and software engineering sharpening my skills with hands-on projects and certifications.
+Currently diving deep into Ethical Hacking, and software engineering sharpening my skills with hands-on projects and certifications.
 
-💞️ Looking to collaborate on open-source projects and innovative solutions that push the boundaries of secure digital infrastructure.
+Looking to collaborate on open-source projects and innovative solutions that push the boundaries of secure digital infrastructure.
 
-📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/tom-peter/) or drop me an email at tomaspetros768@gmail.com.
+Reach out to me on [LinkedIn](https://www.linkedin.com/in/tom-peter/) or drop me an email at tomaspetros768@gmail.com.
 
 "If it works, don't touch it" — But always be ready to innovate.
 
